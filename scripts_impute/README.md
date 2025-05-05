@@ -10,10 +10,6 @@ Objectives
 	•	Identifying key genomic regions: Identifying DNA methylation sites that contribute significantly to phenotypic variation in complex traits using ML.
 
 
-Data Collection
-
-The project uses high-throughput Whole Genome Bisulfite Sequencing (WGBS) data for DNA methylation and RNA-seq data for gene expression. These datasets are complemented by phenotypic data for complex traits such as growth, yield, or disease resistance in Arabidopsis lyrata (or your model species). The dataset consists of [Number of samples] individuals with detailed phenotype measurements.
-
 Bayesian Regression Models
 
 Bayesian regression is employed to model the variance components in complex traits, using the brms package in R. The models are used to estimate the following:
