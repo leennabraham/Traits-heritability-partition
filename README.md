@@ -2,7 +2,7 @@
 
 **Project Overview**
 
-This project aims to explore the role of DNA methylation in the heritability of complex traits in Arabidopsis lyrata by integrating DNA methylation data with phenotypic traits, we utilize Bayesian regression models to partition variance into different components: additive, dominance, and residual variances. This helps to understand the genetic and epigenetic contributions to trait variation in populations.
+This project aims to explore the role of DNA methylation in the heritability of complex traits in Arabidopsis lyrata by integrating DNA methylation data with phenotypic traits. We utilize Bayesian regression models to partition variance into different components: additive, dominance, and residual variances. This helps to understand the genetic and epigenetic contributions to trait variation in populations.
 
 **Objectives**
 
